@@ -160,5 +160,5 @@ A unified platform integrating sales, products, and store data.
 
 ## Architectural Design
 A scalable and robust system supporting E-Tech's growing data and analytical needs.
----![Architecture Desgin](https://github.com/user-attachments/assets/5ca5dc45-7fa0-4dbe-86df-335720f01a80)
+![Architecture Desgin](https://github.com/user-attachments/assets/5ca5dc45-7fa0-4dbe-86df-335720f01a80)
 
