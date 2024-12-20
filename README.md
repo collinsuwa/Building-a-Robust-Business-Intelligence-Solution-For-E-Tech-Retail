@@ -244,6 +244,8 @@ Provides insights into customer behavior, demographics, and preferences to enhan
 3. **Gender Category:**
    - Highlights gender-based revenue drivers and ensures balanced engagement.
 
+https://github.com/user-attachments/assets/12cad912-45f1-4cb0-9fd3-be85682b10e1
+
 ---
 
 # VII. Insights and Recommendations
