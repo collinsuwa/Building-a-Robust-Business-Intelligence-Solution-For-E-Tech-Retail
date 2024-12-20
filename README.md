@@ -153,11 +153,6 @@ A unified platform integrating sales, products, and store data.
 
 ---
 
-## Next Steps
-- Aggregate and calculate KPIs.
-- Integrate with MS Fabric and BI systems.
-- Deploy dashboards for decision-making.
-
 ## Architectural Design
 A scalable and robust system supporting E-Tech's growing data and analytical needs.
 ![Architecture Desgin](https://github.com/user-attachments/assets/5ca5dc45-7fa0-4dbe-86df-335720f01a80)
@@ -174,6 +169,11 @@ A scalable and robust system supporting E-Tech's growing data and analytical nee
 These dashboards provide critical insights to aid decision-making.
 
 ---
+## Next Steps
+- Aggregate and calculate KPIs.
+- Integrate with MS Fabric and BI systems.
+- Deploy dashboards for decision-making.
+
 
 ## A. Sales Performance (Key Performance Indicators - KPIs)
 The Sales Performance dashboard tracks metrics related to revenue, trends, and performance against targets. It offers insights into business health, top-performing regions, and products.
