@@ -162,3 +162,129 @@ A unified platform integrating sales, products, and store data.
 A scalable and robust system supporting E-Tech's growing data and analytical needs.
 ![Architecture Desgin](https://github.com/user-attachments/assets/5ca5dc45-7fa0-4dbe-86df-335720f01a80)
 
+# Dashboard Overview
+
+## Dashboards for Key Areas:
+- **Sales Performance**
+- **Store Performance**
+- **Product Performance**
+- **Customer Analysis**
+- **Exchange or Conversion Rate Analysis**
+
+These dashboards provide critical insights to aid decision-making.
+
+---
+
+## A. Sales Performance (Key Performance Indicators - KPIs)
+The Sales Performance dashboard tracks metrics related to revenue, trends, and performance against targets. It offers insights into business health, top-performing regions, and products.
+
+### Metrics:
+1. **Total Revenue (Total and per Country):**
+   - Tracks total income generated over a specific period.
+   - Provides comparisons of sales contributions across countries.
+
+2. **Cost of Sales:**
+   - Represents expenses associated with producing or purchasing goods sold.
+   - Influences profitability and gross margins.
+
+3. **Total Profits:**
+   - Measures profitability by comparing revenue to costs.
+   - Highlights high-margin categories for prioritization.
+
+4. **Profit Margin:**
+   - Assesses efficiency in converting revenue into profit.
+
+5. **Total Unique Orders:**
+   - Reflects demand, operational capacity, and customer engagement.
+
+6. **Total Units Sold:**
+   - Evaluates market demand and operational performance.
+
+---
+
+## B. Store Performance (Key Performance Indicators - KPIs)
+Evaluates how products and services perform across different stores to guide expansion, investments, or market exits.
+
+### Metrics:
+1. **Store Performance Comparison:**
+   - Identifies top-performing stores and highlights underperformers.
+   - Analyzes causes of low performance, such as poor marketing or weak distribution.
+
+2. **Store Performance Over Time:**
+   - Tracks store performance over its operational timeline.
+   - Analyzes factors like sales trends and profitability.
+
+---
+
+## C. Product Performance (Key Performance Indicators - KPIs)
+Analyzes how well products meet business goals and customer needs, contributing to revenue and profitability.
+
+### Metrics:
+1. **Profit Margin by Product Category:**
+   - Prioritizes high-margin categories to optimize pricing.
+
+2. **Units Sold by Product Category:**
+   - Identifies high-demand products for supply chain adjustments.
+
+3. **Product Contribution:**
+   - Measures each product's contribution to total revenue.
+
+---
+
+## D. Customer Analysis (Key Performance Indicators - KPIs)
+Provides insights into customer behavior, demographics, and preferences to enhance satisfaction and retention.
+
+### Metrics:
+1. **Valued Customers:**
+   - Tracks total revenue contribution per customer.
+
+2. **Age Group:**
+   - Identifies which age groups prefer specific products and categories.
+
+3. **Gender Category:**
+   - Highlights gender-based revenue drivers and ensures balanced engagement.
+
+---
+
+# VII. Insights and Recommendations
+The dashboards are interactive, enabling real-time decision-making for E-Technology International, Ltd.
+
+## Summary of Insights:
+1. **Sales Performance:**
+   - Achieved $55.76M in revenue with strong profit margins (58.58%) and 20% average growth rate.
+   - Sales peak from December to February; lowest in March and April.
+
+2. **Store Performance:**
+   - The USA, UK, and Germany are top revenue contributors.
+   - Smaller regions like Northwest Territories outperform in order volume, suggesting strong engagement.
+   - Online stores outperform physical locations.
+
+3. **Product Performance:**
+   - Computers and Home Appliances lead revenue.
+   - Games, Toys, and Audiobooks underperform.
+
+4. **Customer Analysis:**
+   - Customers aged 40+ contribute significantly, especially in Home Appliances and TV & Video.
+   - Minimal engagement from the 18-29 demographic represents untapped potential.
+
+## Recommendations:
+1. **Sales Performance:**
+   - Launch recovery campaigns post-pandemic.
+   - Target 25-30% growth by scaling operations in profitable regions.
+
+2. **Store Performance:**
+   - Invest in USA, UK, and Germany while reassessing underperformers.
+   - Monitor new stores for strategic alignment with market demand.
+
+3. **Product Performance:**
+   - Focus on high-performing categories like Computers and Home Appliances.
+   - Adjust marketing for low-performing categories based on regional and seasonal trends.
+
+4. **Customer Analysis:**
+   - Engage the 18-29 demographic through social media and lifestyle-targeted products.
+   - Expand gender-neutral product lines to maintain balanced sales distribution.
+
+---
+
+This dashboard enables strategic decision-making and operational efficiency, driving growth and improving customer satisfaction for E-Technology International, Ltd.
+
